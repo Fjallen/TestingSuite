@@ -1,6 +1,7 @@
 # Testing Suite
 
-TestingSuite.py contains the class for the testing suite
+TestingSuite.py contains the class for the testing suite.
+
 The Testing Suite is used to test your Python function with a list of expected inputs and outputs
 
 ## How to use: 
